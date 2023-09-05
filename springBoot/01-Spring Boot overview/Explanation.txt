@@ -1,0 +1,2 @@
+today in this leaning seassion, i am going to lear the jaba spring boot and going to build a basic SpringApplication
+where i am going to use the getmapping and check the perfomence in the local server using REST API.
