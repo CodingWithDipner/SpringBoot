@@ -4,7 +4,8 @@ while we update the code, we need to manually re-load the application.
 
 
 # Here is the solution, 
-# Dev tools.
+
+ Dev tools.
 
 This will automatically re-load the application once we update and save our work. 
 
