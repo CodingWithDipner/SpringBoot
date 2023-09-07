@@ -1,0 +1,12 @@
+Actuator
+
+Problem
+1) How can i Monitor and manage my application?
+2) how can i check the application health?
+3) how can i access application metrics?
+
+Solution:Spring Boot Actuator
+-> Exposes endpoints to monitor and manage your application
+-> You easily get DevOps functionality out-of-the-box
+-> Simply add the dependency to your POM file
+-> REST endpoints are automatically added to your application
